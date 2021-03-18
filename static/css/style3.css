@@ -1,0 +1,42 @@
+.col-md-3
+{
+	display: inline-block;
+    margin-left:-4px;
+}
+.carousel-indicators .active
+{
+    background-color: black;
+}
+.col-md-3 img
+{
+	width:160px;
+	height:250px;
+}
+.carousel-indicator li
+{
+    background-color: black;
+}
+.carousel-indicators
+{
+	bottom: 0;
+}
+.carousel-control-prev-icon,
+.carousel-control-next-icon
+{
+    background-color: grey;
+}
+.carousel-control-prev,
+.carousel-control-next
+{
+	padding-top: 225px;
+    top: auto;
+    bottom: auto;
+}
+.no-padding
+{
+	padding-left: 0,
+	padding-right: 0;
+}
+
+
+
